@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+net_inspector_output.txt
+net_inspector_*.txt
+dist/
+build/
+*.spec
